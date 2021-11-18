@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JulienArmand1
-- 👀 I’m interested in statistics and data science
+- 👀 I’m interested in statistics 
+- 
 
 <!---
 JulienArmand1/JulienArmand1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
